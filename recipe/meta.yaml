@@ -1,4 +1,4 @@
-{% set version = '0.1.6' %}
+{% set version = "0.1.7" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/gprofiler2_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/gprofiler2/gprofiler2_{{ version }}.tar.gz
-  sha256: ff2ddcfc78596611b16ffa45a8dc3a000f2578ee432b83da63b64f2e1d6ba337
+  sha256: 3bce6a03fbe55a5bffef3baebb4c6ea5f1209113d71e6e1167feafc3c5ac0ea7
 
 build:
   merge_build_host: True  # [win]
