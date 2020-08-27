@@ -3,7 +3,7 @@ About r-gprofiler2
 
 Home: https://CRAN.R-project.org/package=gprofiler2
 
-Package license: GPL-2
+Package license: GPL-2.0-or-later
 
 Feedstock license: BSD-3-Clause
 
