@@ -5,7 +5,7 @@ Home: https://CRAN.R-project.org/package=gprofiler2
 
 Package license: GPL-2
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A toolset for functional enrichment analysis and visualization, gene/protein/SNP identifier conversion and mapping orthologous genes across species via 'g:Profiler' (<https://biit.cs.ut.ee/gprofiler>).  The main tools are:  (1) 'g:GOSt' - functional enrichment analysis and visualization of gene lists;  (2) 'g:Convert' - gene/protein/transcript identifier conversion across various namespaces; (3) 'g:Orth' - orthology search across species; (4) 'g:SNPense' - mapping SNP rs identifiers to chromosome positions, genes and variant effects This package is an R interface corresponding to the 2019 update of 'g:Profiler' and provides access to 'g:Profiler' for versions 'e94_eg41_p11' and higher. See the package 'gProfileR' for accessing older versions from the 'g:Profiler' toolset.  
 
